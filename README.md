@@ -1,3 +1,5 @@
+![logo](https://github.com/RohanGiriSquad/RohanGiriSquad/blob/main/OIG2.f..jpg)
+
 <h1 align="center">Hi 👋, I'm Rohan Giri</h1>
 <h3 align="center">A passionate cybersecurity enthusiast from India</h3>
 
@@ -177,4 +179,3 @@
 📝 [Medium Articles](https://medium.com/@securelearn)
 
 📚 [Ethical Hacking Advance Course](https://rb.gy/i71dzw)
-``
