@@ -19,7 +19,7 @@
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
-# Rohan Giri's Cybersecurity Portfolio 🚀
+   #                                                                           Cybersecurity Portfolio 🚀
 
 <p align="center"><img src="https://i.pinimg.com/originals/bd/4e/d3/bd4ed327189c2a56695beb91cd534570.gif" alt="HackerGIF"></p>
 
@@ -56,17 +56,23 @@
 
 <p align="center"><img src="https://s3.us-east-2.amazonaws.com/s3.arts-inspiredlearning.org/wp-content/uploads/20170808191051/steam-learning-1038x562.gif" alt="ElearningSchoolBusGIF"></p>
 
+
   
   
 🎓 Bachelor of Computer Applications (BCA) from CCS University, Meerut, Uttar Pradesh, Expected Graduation: 01/2025, Grade: A
 
+
 🎓 1.6 Years Advance Diploma in Cybersecurity from Cyber Yodha, Graduated: 02/2024, Grade: A
+
 
 🎓 Junior Cybersecurity Analyst Career Path Exam from Cisco Networking Academy, Graduated: 01/2024, Grade: A
 
+
 🎓 Penetration Testing and Ethical Hacking Certification from Cybrary, Completed: 01/2024
 
+
 🎓 Various certifications from Cisco and EC-Council in Cybersecurity, Digital Forensics, Network Defense, and Ethical Hacking.
+
 
 
 
@@ -76,6 +82,7 @@
 
  
 👨‍💼 Cyber Security Intern at Cyber Yodha, India (06/2022 - 12/2023)
+
 
 👨‍💼 Cyber Security Analyst at Cyber Yodha, India (01/2024 - Present)
 
@@ -109,6 +116,7 @@ Skills: SQL Injection · CSRF · XSS · OWASP · Burp Suite
 📱 SMS Stealer Application Development: Developed an app to highlight SMS security vulnerabilities.
 
 
+
 <p align="center"><img src="https://www.open.edu/openlearn/pluginfile.php/3143042/tool_ocwmanage/image/0/dil_1_OLHP_786x400.jpg" alt="CaptainAmericaGIF"></p>
 
 
@@ -116,6 +124,7 @@ Skills: SQL Injection · CSRF · XSS · OWASP · Burp Suite
 💡 Hindi: First Language
 
 🌐 English: B2 Upper Intermediate
+
 
 
 <p align="center"><img src="https://www.managementconcepts.com/portals/0/Images/Prepaid_CP.png?ver=Uzg_Fm5QGEdzBNTR4v1j-w%3D%3D" alt="GardenStateCertificatesGIF"></p>
@@ -145,9 +154,7 @@ Skills: SQL Injection · CSRF · XSS · OWASP · Burp Suite
 🐞 Android Bug Hunting, EC-Council
 
 
-
 <p align="center"><img src="https://marketingmagazine.com.my/wp-content/uploads/2021/09/connectme-now.png" alt="SafemoonConnectSafemoonGIF"></p>
-
 
  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/rohan-giri-cybersecurity)
@@ -163,3 +170,4 @@ Skills: SQL Injection · CSRF · XSS · OWASP · Burp Suite
 📝 [Medium Articles](https://medium.com/@securelearn)
 
 📚 [Ethical Hacking Advance Course](https://rb.gy/i71dzw)
+ 
