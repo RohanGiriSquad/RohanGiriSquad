@@ -29,7 +29,11 @@ I am Rohan Giri, a cybersecurity enthusiast specializing in penetration testing 
 I am actively seeking opportunities to apply my theoretical knowledge in a practical setting. I have a keen interest in ethical hacking, cybersecurity research, and staying updated on industry trends.
 
 ## Projects
-- Android App Development - Ethical Hacking App: Created an Android app promoting responsible cybersecurity practices.
+- Bug BountyBug Bounty
+  Nov 2023 - PresentNov 2023 - Present
+  Actively participated in bug bounty programs, identifying and responsibly disclosing security vulnerabilities.Actively participated in bug bounty programs, identifying and responsibly disclosing security 
+  vulnerabilities.
+  Skills: SQL Injection · CSRF · XSS · OWASP · Burp Suite
 - Social Media Phishing: Explored social engineering flaws to raise online security awareness.
 - Web Penetration Testing Project: Utilized tools to assess and address website vulnerabilities.
 - WiFi-Hacking Tactics and Vulnerability Assessment: Studied WiFi security risks and best practices.
@@ -43,6 +47,7 @@ I am actively seeking opportunities to apply my theoretical knowledge in a pract
 ## Certifications
 - Junior Cybersecurity Analyst Career Path, Cisco
 - Penetration Testing and Ethical Hacking, Cybrary
+- Career Essentials in Cybersecurity by Microsoft and LinkedIn
 - Cyber Threat Management, Cisco
 - Cybersecurity Essentials, Cisco
 - Digital Forensics Essential, EC-Council
