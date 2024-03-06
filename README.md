@@ -11,13 +11,21 @@ Rohan Giri's Cybersecurity Portfolio 🚀
  🧑‍💻 Skills
  
 🔒 Certified Ethical Hacker (CEH)
+
 🔍 Penetration Testing
+
 💰 Bug Bounty Hunting
+
 💻 PHP
+
 ☕ Java
+
 🔍 Reverse Engineering
+
 🔒 Network Security
+
 💡 Problem-Solving Aptitude
+
 🔄 Adaptability and Flexibility
 
 ![ElearningSchoolBusGIF](https://github.com/RohanGiriSquad/RohanGiriSquad/assets/162410556/2ba501fb-0b79-46c8-9d57-bfeac4ca2598)
@@ -63,7 +71,7 @@ Skills: SQL Injection · CSRF · XSS · OWASP · Burp Suite
 
 📡 WiFi-Hacking Tactics and Vulnerability Assessment: Studied WiFi security risks and best practices.
 
-🛡️ Malware Analysis and Reverse Engineering: Analyzed and countered malicious software threats.\
+🛡️ Malware Analysis and Reverse Engineering: Analyzed and countered malicious software threats.
 
 📱 SMS Stealer Application Development: Developed an app to highlight SMS security vulnerabilities.
 
