@@ -1,4 +1,4 @@
-![logo](https://github.com/RohanGiriSquad/RohanGiriSquad/blob/main/OIG2.f..jpg)
+![OIG2 f](https://github.com/RohanGiriSquad/RohanGiriSquad/assets/162410556/9c00fee0-cc60-44c8-b735-d2dac5bf8cbd)
 
 <h1 align="center">Hi 👋, I'm Rohan Giri</h1>
 <h3 align="center">A passionate cybersecurity enthusiast from India</h3>
